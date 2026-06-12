@@ -62,6 +62,15 @@ File Handling
 Additional:
 Java Printing API
 
+##  To run on your desktop follow instruction
+
+1) open your terminal
+2) give command (> git clone https://github.com/keshavmehra622/codeAlpha_HotelReservationSystem.git) 
+3) cd codeAlpha_HotelReservationSystem
+4) cd src
+5) javac *.java
+6) java main
+
 ---
 
 ## Project Structure
